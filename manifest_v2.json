@@ -1,0 +1,42 @@
+{
+  "item": {
+    "id": "com.zalea.weather",
+    "restype": "quick_app",
+    "name": "在线天气",
+    "description": "在带有蜂窝网络的小米或红米手表上使用此软件时，不需要连接手机即可查看天气数据。",
+    "preview": [
+      "media/屏幕截图 2026-09-19 152039.png"
+    ],
+    "icon": "media/images.jpeg",
+    "cover": "media/images.png",
+    "author": [
+      {
+        "name": "Zalean",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "github",
+      "url": "https://github.com/Cookie-Zalea/Zalea-Weather",
+      "icon": "GithubLogo"
+    }
+  ],
+  "downloads": {
+    "xmrw5xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.zalea.weather.release.1.0.0.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {
+    "trialDownloads": {
+      "xmrw5xring": {
+        "version": "1.0.0",
+        "file_name": "downloads/trial/com.zalea.weather.release.1.0.0.rpk",
+        "versionCode": 1
+      }
+    }
+  }
+}
